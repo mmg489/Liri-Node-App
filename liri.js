@@ -138,7 +138,7 @@ function readTextFile () {
       // sets optional third argument to second item in array
       nameToSearch = dataArr[1];
       // calls function to do what user command and search is
-      readUserInput(userCommand,nameToSearch);
+      readUserInput();
     }
     
 
