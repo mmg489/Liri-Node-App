@@ -1,5 +1,5 @@
 #Liri-Node-App
-##Language interpretation and Recognition Interface
+Language interpretation and Recognition Interface
 
 LIRI is an app based on the idea of SIRI's Speech Interpretation and Recognition Interface, except LIRI uses language instead of speech. LIRI is a command line node app. The user will provide parameters for search queries in the concert, movie, and spotify categories.
     ![](concert_this_command_GIF.gif)
