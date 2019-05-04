@@ -11,9 +11,9 @@ The user can also input information into the random.txt file and have LIRI read 
 
 Each category has a corresponding command: 
 
-+concert-this "artist name"
-+movie-this "movie name"
-+spotify-this-song "song title"
++concert-this artist name
++movie-this movie name
++spotify-this-song song title
 
 When a user prompts the concert-this commmand, they will be provided with the following details:
 
